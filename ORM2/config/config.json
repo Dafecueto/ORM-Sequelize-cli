@@ -1,0 +1,15 @@
+{
+  "development": {
+    "username": "root",
+    "password": "presariodb",
+    "database": "testdb",
+    "host": "146.59.155.170",
+    "dialect": "mysql",
+    "operatorAiases": false,
+    "dialectOptions": {
+      "charset": "utf8mb4"
+    },
+    "logging": true,
+    "benchmark": true
+  }
+}
